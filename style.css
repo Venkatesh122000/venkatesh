@@ -109,3 +109,11 @@ h3{
     font-size: 0.75rem;
     padding: 20px 0;
 }
+.gif{
+  width: 2%;
+}
+a:hover{
+  border-radius: 80%;
+  background-color: #ffffff;
+  
+}
