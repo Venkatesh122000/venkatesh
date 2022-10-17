@@ -104,16 +104,22 @@ h3{
   text-decoration: none;
 }
 .end{
-  margin-left: 43%;
-  color: #EAF6F6;
+  margin-left: 43.5%;
+  color: #030505;
     font-size: 0.75rem;
     padding: 20px 0;
 }
 .gif{
   width: 2%;
 }
-a:hover{
+.link:hover{
   border-radius: 80%;
   background-color: #ffffff;
   
+}
+.btn:hover{
+  padding: 0.5%;
+  color: rgb(2, 58, 24);
+  font-weight: bolder;
+  border-radius: 45px;
 }
