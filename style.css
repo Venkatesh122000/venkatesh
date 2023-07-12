@@ -124,3 +124,7 @@ h3{
   border-radius: 45px;
   margin-left: 45.8%;
 }
+.siteLink{
+  color: rgb(0, 26, 255);
+  text-decoration:none;
+}
